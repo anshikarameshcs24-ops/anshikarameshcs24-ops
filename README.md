@@ -1,7 +1,7 @@
  Hi, I'm Anshika
->Computer Science Engineering student at BMSCE
->Interested in Software Development, AI/ML & Generative AI
->Building practical projects that combine software engineering with intelligent systems.
+*Computer Science Engineering student at BMSCE
+*Interested in Software Development, AI/ML & Generative AI
+*Building practical projects that combine software engineering with intelligent systems.
 
  What I'm Interested In
 
@@ -16,15 +16,22 @@
 
 Tech Stack
 Languages
-`Python` `C` `C++` `Java` `JavaScript` `TypeScript` `SQL`
+*`Python` `C` `C++` `Java` `JavaScript` 
+`TypeScript` `SQL`
 AI / ML & GenAI
-`Generative AI` `LLMs` `RAG` `Prompt Engineering` `AI Agents` `Machine Learning` `Computer Vision`
+*`Generative AI` `LLMs` `RAG`
+`Prompt Engineering` `AI Agents` 
+`Machine Learning` `Computer Vision`
 Frameworks & Libraries
-`FastAPI` `React` `Next.js` `Node.js` `OpenCV` `PyTorch` `MediaPipe`
+*`FastAPI` `React` `Next.js` 
+`Node.js` `OpenCV` `PyTorch`
+`MediaPipe`
 Databases & Infrastructure
-`PostgreSQL` `MySQL` `MongoDB` `Firebase` `Redis`
+*`PostgreSQL` `MySQL`
+`MongoDB` `Firebase` `Redis`
 Developer Tools
-`Git` `GitHub` `VS Code` `Docker` `REST APIs`
+*`Git` `GitHub` `VS Code` 
+`Docker` `REST APIs`
 
 Currently Learning
 * Advanced **Data Structures & Algorithms**
