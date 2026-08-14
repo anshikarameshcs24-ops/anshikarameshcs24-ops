@@ -1,8 +1,7 @@
  Hi, I'm Anshika
-
-Computer Science Engineering student at BMSCE
-Interested in Software Development, AI/ML & Generative AI
-Building practical projects that combine software engineering with intelligent systems.
+>Computer Science Engineering student at BMSCE
+>Interested in Software Development, AI/ML & Generative AI
+>Building practical projects that combine software engineering with intelligent systems.
 
  What I'm Interested In
 
